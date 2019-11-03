@@ -1,0 +1,10 @@
+iris,https://archive.ics.uci.edu/ml/datasets/iris
+magic2,https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope
+cancer12,https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
+cancer22,https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra
+ExampleDataset,https://github.com/BobbyAnguelov/NeuralNetwork/blob/master/Example/ExampleDataSet.csv
+ahealth_older,https://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+sensor
+wine2,https://archive.ics.uci.edu/ml/datasets/wine+quality
+sonar2,http://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks)
+cancer32,https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+eeg_eye_state,https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State

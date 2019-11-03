@@ -1,0 +1,43 @@
+######## Dataset: ahealth_older2.csv ###########
+Class 1: 16406  Percentage: 21.8374%
+Class 2: 4911  Percentage: 6.53684%
+Class 3: 51520  Percentage: 68.5763%
+Class 4: 2291  Percentage: 3.04946%
+
+######## Dataset: cancer12.csv ###########
+Class 1: 241  Percentage: 34.4778%
+Class 2: 458  Percentage: 65.5222%
+
+######## Dataset: cancer22.csv ###########
+Class 1: 64  Percentage: 55.1724%
+Class 2: 52  Percentage: 44.8276%
+
+######## Dataset: cancer32.csv ###########
+Class 1: 357  Percentage: 62.7417%
+Class 2: 212  Percentage: 37.2583%
+
+######## Dataset: eeg_eye_state2.csv ###########
+Class 1: 6723  Percentage: 44.8798%
+Class 2: 8257  Percentage: 55.1202%
+
+######## Dataset: ExampleDataSet2.csv ###########
+Class 1: 2380  Percentage: 11.9%
+Class 2: 17620  Percentage: 88.1%
+
+######## Dataset: iris.csv ###########
+Class 1: 50  Percentage: 33.3333%
+Class 2: 50  Percentage: 33.3333%
+Class 3: 50  Percentage: 33.3333%
+
+######## Dataset: magic2.csv ###########
+Class 1: 6688  Percentage: 35.163%
+Class 2: 12332  Percentage: 64.837%
+
+######## Dataset: sonar2.csv ###########
+Class 1: 111  Percentage: 53.3654%
+Class 2: 97  Percentage: 46.6346%
+
+######## Dataset: wine2.csv ###########
+Class 1: 4897  Percentage: 75.3849%
+Class 2: 1599  Percentage: 24.6151%
+
